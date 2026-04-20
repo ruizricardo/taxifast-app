@@ -100,7 +100,7 @@ Waiting Taxi   On    Arrived
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/taxifast-app.git
+   git clone https://github.com/ruizricardo/taxifast-app.git
    ```
 
 2. Open the project in Android Studio.

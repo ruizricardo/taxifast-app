@@ -2,11 +2,17 @@
 
 A native Android ride-sharing application (similar to Uber) built for the city of **Tarija, Bolivia**. The app connects passengers with nearby taxi drivers in real time, managing the full lifecycle of a ride from request to arrival.
 
-<!-- ---
 
-## Screenshots
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1fd2724f-c315-4a36-844f-b3d84637bd09" width="180"></td>
+    <td><img src="https://github.com/user-attachments/assets/67e6e659-228b-49a9-bb1d-5995cad82e0b" width="180"></td>
+    <td><img src="https://github.com/user-attachments/assets/9b567fce-544c-4909-8e2a-3ced8bb83c89" width="180"></td>
+    <td><img src="https://github.com/user-attachments/assets/84d80863-9579-426b-aa09-711f915b901d" width="180"></td>
+    <td><img src="https://github.com/user-attachments/assets/4d59cd40-61b9-4280-af6a-9919aba89f4e" width="180"></td>
+  </tr>
+</table>
 
-> _Add screenshots here_ -->
 
 ---
 
